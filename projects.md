@@ -16,7 +16,9 @@ by researchers everywhere!
 
 Check it out by clicking the logo below.
 
-<img src="imgs/scMKL_logo.png" alt="scmkl" width="20%" href="https://github.com/ohsu-cedar-comp-hub/scMKL/tree/main">
+<a href="https://github.com/ohsu-cedar-comp-hub/scMKL/tree/main">
+  <img src="imgs/scMKL_logo.png" alt="scmkl" width="30%">
+</a>
 
 
 ## Bioinformatic Challenges
