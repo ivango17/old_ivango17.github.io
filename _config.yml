@@ -2,5 +2,5 @@ remote_theme: pages-themes/slate@v0.2.0
 plugins:
   - jekyll-remote-theme
 
-title: Ian VanGordon's Pages
+title: Ian VanGordon's Page
 description: A static website for learning more about me!

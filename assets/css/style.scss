@@ -1,0 +1,15 @@
+---
+---
+@import "{{ site.theme }}";
+
+/* Widen the header background/content */
+header .header-inner, #content-wrapper {
+  max-width: 90%; /* Leaves a 5% margin on both sides of the screen */
+  margin: 0 auto;
+}
+
+/* Widen the main text content area */
+#content-wrapper {
+  max-width: 90%; /* Matches the header width */
+  margin: 0 auto;    /* Keeps it centered */
+}
