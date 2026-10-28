@@ -1,3 +1,9 @@
+---
+layout: single
+title: "Welcome to my page!"
+author_profile: true
+---
+
 [Home](/) | [About Me](/about) | [My Projects](/projects) | [Publications](/publications)
 
 # Welcome to my page!
